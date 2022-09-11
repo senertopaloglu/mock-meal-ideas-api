@@ -1,0 +1,82 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Classic Beef Burgers",
+            "prep time": "45mins",
+            "description": "A mouth-watering classic american beef burger",
+            "ingredients": [
+                "beef",
+                "american cheese",
+                "burger sauce",
+                "french mustard",
+                "pickes",
+                "onion",
+                "lettuce"
+            ],
+            "origin": "USA"
+        },
+        {
+            "id": 2,
+            "name": "Paella",
+            "prep time": "30mins",
+            "description": "Spanish rice dish made with a mix of chicken, seafood and vegetables",
+            "ingredients": [
+                "olive oil",
+                "chicken",
+                "garlic",
+                "green vegetables",
+                "paprika",
+                "rice",
+                "mixed seafood"
+            ],
+            "origin": "Spain"
+        },
+        {
+            "id": 3,
+            "name": "Lasagne",
+            "prep time": "60mins",
+            "description": " Italian dish made of stacked layers of pasta with fillings such as ragù, vegetables and cheeses",
+            "ingredients": [
+                "lasagne pasta sheets",
+                "minced beef",
+                "tomato sauce",
+                "onion",
+                "mozarella",
+                "parmesan",
+                "oregano"
+            ],
+            "origin": "Italy"
+        },
+        {
+            "id": 4,
+            "name": "Vegetarian Fajitas",
+            "prep time": "25mins",
+            "description": "Quick and tasty wraps filled with protein, vegetables and mexican seasoning",
+            "ingredients": [
+                "quorn chicken strips",
+                "onion",
+                "bell peppers",
+                "mexican spices",
+                "salt",
+                "pepper"
+            ],
+            "origin": "Mexico"
+        },
+        {
+            "id": 4,
+            "name": "Victoria Sponge Cake",
+            "prep time": "40mins",
+            "description": "Traditional British victoria sponge cake filled with strawberry jam and cream",
+            "ingredients": [
+                "butter",
+                "self-raising flour",
+                "caster sugar",
+                "milk",
+                "strawberry jam",
+                "icing sugar"
+            ],
+            "origin": "UK"
+        }
+    ]
+}
